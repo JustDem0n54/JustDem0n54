@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">📚 I'm currently student at 42 School<br>🎯 Goals: Dev video games<br>🎲 Fun fact: I got the GC on RL</p>
 
 ###
 
