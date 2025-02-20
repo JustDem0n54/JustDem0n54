@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">https://badge.mediaplus.ma/greenbinary/nrontard?1337Badge=off&UM6P=off</p>
+<p align="left"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/nrontard?1337Badge=off&UM6P=off" alt="nrontard's 42 stats" /></a></p>
 
 ###
 
