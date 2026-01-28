@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently student at 42 School<br>🎯 Goals: Dev video games<br>🎲 Fun fact: I got the GC on RL</p>
+<p align="left">📚 I'm currently student at 42 School<br>🎯 Goals: Dev Full Stack<br>🎲 Fun fact: I got the GC on RL</p>
 
 ###
 
@@ -22,6 +22,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cpp logo"  />
+  <!-- TypeScript -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+     height="40" alt="typescript logo" />
+
+<!-- HTML -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+     height="40" alt="html logo" />
+
+<!-- Tailwind CSS -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
+     height="40" alt="tailwindcss logo" />
+
+<!-- Node.js -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+     height="40" alt="nodejs logo" />
+
+<!-- SQLite -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"
+     height="40" alt="sqlite logo" />
 </div>
 
 ###
